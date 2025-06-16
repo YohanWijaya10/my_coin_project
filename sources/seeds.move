@@ -10,7 +10,7 @@ module seeds::seeds {
     const E_NOT_OWNER: u64 = 1;
     const E_MAX_SUPPLY_EXCEEDED: u64 = 2;
 
-    //
+    
     // === Token Type Definition ===
     //
     public struct SEEDS has drop {}
