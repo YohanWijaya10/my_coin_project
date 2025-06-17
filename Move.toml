@@ -1,7 +1,7 @@
 [package]
 name = "seeds"
 edition = "2024.beta" # edition = "legacy" to use legacy (pre-2024) Move
-published-at = "0xba2d5bde731ed0e2c02e8e826aab1c6e1c5fe363e59aa15d00696dabcb1d32c6"
+published-at = "0x5813059c6049dc4777e549647c598cf329cd8dcd44ee5a6cd477c19aa82df463"
 
 # license = ""           # e.g., "MIT", "GPL", "Apache 2.0"
 # authors = ["..."]      # e.g., ["Joe Smith (joesmith@noemail.com)", "John Snow (johnsnow@noemail.com)"]
